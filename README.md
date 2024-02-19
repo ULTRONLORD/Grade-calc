@@ -33,6 +33,7 @@ Welcome to the GPA Calculator project! This collaborative effort has been design
 ## Customization
 
 - **STILL UNDER CONSTRUCTION........**
+- **Good NEWS: The project will be completed soon, that is the GPA section stay tuned.
   
 
 ## Contribution Guidelines
